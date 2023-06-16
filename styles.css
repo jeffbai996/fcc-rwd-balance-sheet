@@ -1,5 +1,5 @@
-* {
-  border: 1px solid red;
+span[class~="sr-only"] {
+  border: 0;
 }
 
 html {
